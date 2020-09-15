@@ -33,6 +33,7 @@ const FileModal = ({ openModal, isMobile }) => {
         style={{
           overflowY: 'auto',
           maxHeight: '77vh',
+          maxWidth: '77vh',
         }}
       >
         <Subtitle>Hello,👋 My name is {avatar.name}</Subtitle>
