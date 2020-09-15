@@ -21,7 +21,8 @@ const FileModal = ({ openModal, isMobile }) => {
   return (
     <Modal
       {...propsBox}
-      style={{ top: 0 }}
+      style={{ top: '28%', left: '30%' }}
+      openModal={openModal}
       buttons={[{ value: 'More Info', onClick: openModal }]}
     >
       <Frame
