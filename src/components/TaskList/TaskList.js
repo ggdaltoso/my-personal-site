@@ -10,7 +10,7 @@ const TaskList = () => {
       </ListItem>
       <List.Divider />
       <ListItem icon="computer_3">
-        <Link href="https://github.com/kaiofelipejs/personal-site">
+        <Link href="https://github.com/breno-felipe/my-personal-site.git">
           Source Code
         </Link>
       </ListItem>
